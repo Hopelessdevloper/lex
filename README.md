@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf6b1196-e5ab-4a70-9759-18908daed72f/deploy-status)](https://app.netlify.com/sites/duralex/deploys)
 <p align="center">
   <a href="https://gethyas.com/">
     <img alt="Doks" src="https://hyas.netlify.app/hyas.svg" width="60">
